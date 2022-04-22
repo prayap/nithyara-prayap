@@ -1,4 +1,9 @@
-﻿##Importing/Exporting Files
+For the best experience, please run all of the notebooks in the Colab environment.  
+ 
+ 
+The following libraries must be downloaded in order to run the notebooks:
+
+ ##Importing/Exporting Files
 from google.colab import drive
 drive.mount('/content/drive')
 from zipfile import ZipFile
